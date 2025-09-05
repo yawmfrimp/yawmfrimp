@@ -31,7 +31,7 @@
 ## 📚 Projects
 ### 🔹 Featured Projects
 Here are some of my top projects:
-- **Project Name 1** - [GitHub Repo](https://github.com/) | [Live Demo](#)
+- **Project Name 1** - [GitHub Repo](https://github.com/yawmfrimp/Capstone_project) | [Live Demo](#)
 - **Project Name 2** - [GitHub Repo](https://github.com/) | [Live Demo](#)
 - **Project Name 3** - [GitHub Repo](https://github.com/) | [Live Demo](#)
 
@@ -39,7 +39,7 @@ Here are some of my top projects:
 
 ## 🌟 Open Source Contributions
 Actively contributing to open-source projects is a great way to demonstrate collaboration skills. Check out my contributions:
-- [Repo Name](https://github.com/yawmfrimp/Capstone_project)
+- [Repo Name](https://github.com/)
 - [Repo Name](https://github.com/)
 
 ---
