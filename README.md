@@ -39,7 +39,7 @@ Here are some of my top projects:
 
 ## 🌟 Open Source Contributions
 Actively contributing to open-source projects is a great way to demonstrate collaboration skills. Check out my contributions:
-- [Repo Name](https://github.com/)
+- [Repo Name](https://github.com/yawmfrimp/Capstone_project)
 - [Repo Name](https://github.com/)
 
 ---
@@ -59,8 +59,7 @@ Let's connect!
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- Coming soon
 
 
 
